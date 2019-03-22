@@ -1,0 +1,26 @@
+.character-card {
+    
+    width: 50%;
+    margin: 0 auto;
+    /* padding-bottom: 10px */
+}
+
+.char-name{
+    border: 1px solid black;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.character-info {
+    margin: 0 auto;
+    text-align: center;
+    background: white;
+    /* border: 1px solid gray; */
+    /* padding: 5px; */
+    height: auto;
+}
+
+.card-list {
+    /* margin: 0 10px 0 0; */
+}
