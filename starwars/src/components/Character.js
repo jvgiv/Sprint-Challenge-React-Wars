@@ -23,7 +23,7 @@ function Character(props) {
                     <strong>Gender:</strong> {props.swProp.gender}
                 </p>
                 <p>
-                    <strong>Hair Color:</strong> {props.swProp.height}
+                    <strong>Hair Color:</strong> {props.swProp.hair_color}
                 </p>
                 <p>
                     <strong>Height:</strong> {props.swProp.height}
