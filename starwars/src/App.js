@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import StarWarsChars from './components/StarWarsChars';
-
-
+// import 'https://unpkg.com/aos@next/dist/aos.js';
 
 
 

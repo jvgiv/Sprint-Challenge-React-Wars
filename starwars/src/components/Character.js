@@ -6,7 +6,7 @@ import './StarWars.css'
 function Character(props) {
     
     return (
-        <div className="character-card">
+        <div data-aos="zoom-in" className="character-card">
         
             <div className="character-info">
                 <h3 className="char-name">{props.swProp.name}</h3>
