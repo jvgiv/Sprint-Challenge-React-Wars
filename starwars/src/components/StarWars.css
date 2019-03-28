@@ -1,0 +1,31 @@
+.character-card {
+    padding: 10px 0; 
+    width: 50%;
+    margin: 0 auto;
+    /* padding-bottom: 10px */
+}
+
+.char-name{
+    /* border: 1px solid black; */
+    text-decoration: underline;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.character-info {
+    margin: 0 auto;
+    text-align: center;
+    background: #C9B094;
+    color: #4A382C;
+    border-radius: 10px;
+    border: 1px solid gray;
+    /* padding: 5px; */
+    height: auto;
+    box-sizing: border-box;
+}
+
+.card-list {
+    /* margin: 0 10px 0 0; */
+}
